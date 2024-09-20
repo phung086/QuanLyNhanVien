@@ -9,6 +9,7 @@ Tạo ra một hệ thống có thể quản lý thông tin nhân viên đầy �
 Giúp nhà quản lý dễ dàng tìm kiếm, cập nhật và theo dõi nhân viên, bao gồm cả thông tin cá nhân, lịch sử làm việc, vị trí công việc, và hiệu suất.
 Hỗ trợ việc phân quyền, đảm bảo bảo mật thông tin và cho phép các cấp quản lý có thể tiếp cận thông tin cần thiết.
 Hệ thống cũng cung cấp các chức năng như thêm, sửa, xóa thông tin, và có khả năng báo cáo, thống kê hiệu suất làm việc của nhân viên.
+
 3. Chức năng chính:
 
 Đăng nhập và phân quyền:
@@ -39,6 +40,7 @@ hieuSuat: Hiệu suất làm việc (String)
 Báo cáo và thống kê:
 Hệ thống sẽ tự động tạo các báo cáo về hiệu suất làm việc, tình hình chấm công, và báo cáo nhân sự hàng tháng.
 Dữ liệu có thể được xuất ra các định dạng như PDF, Excel để tiện cho việc phân tích.
+
 4. Thiết kế giao diện:
 
 Giao diện đăng nhập: Gồm tài khoản và mật khẩu với phân quyền rõ ràng (admin, manager, nhân viên).
